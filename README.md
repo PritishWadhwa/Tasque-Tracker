@@ -1,2 +1,2 @@
-# DBMS-Project
-Repository of DBMS Project Repository
+# DBMS
+Demo Space for DBMS
