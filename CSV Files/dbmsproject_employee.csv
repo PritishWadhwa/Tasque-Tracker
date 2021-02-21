@@ -1,0 +1,6 @@
+#,EmpId,DomainType,FirstName,MiddleName,LastName,Status,Gender,JoiningDate,LeavingDate,Position,DOB,EmailId,StreetName,CityName,State,Country,Pincode
+1,1,Dev,Keshav,,Gambhir, UNOCCUPIED , male,10-03-2019,,General Employee,30-05-2001,keshav19249@iiitd.ac.in,Lajpat Nagar,New Delhi,Delhi, INDIA ,110024
+2,2,Design,Pritish,,Wadhwa, UNOCCUPIED , male,11-04-2018,,Project Manager,11-11-2000,pritish19440@iiitd.ac.in,Rohini,New Delhi,Delhi, INDIA ,110034
+3,3,Dev-ops,Vinay,,Pandey, UNOCCUPIED , male,01-01-2017,,Company Owner,23-05-2001,vinay19288@iiitd.ac.in,East Delhi,New Delhi,Delhi, INDIA ,110034
+4,4,Design,Yash,,Mathne, UNOCCUPIED , male,01-04-2020,,Team Lead,02-04-2001,yash19129@iiitd.ac.in,Dubai,Dubai,Dubai, INDIA ,115634
+5,5,Dev,Rasagya,,Shokeen, UNOCCUPIED , male,01-01-2018,,General Employee,10-10-2001,rasagya19088@iiitd.ac.in,Ghar mei,New Delhi,Delhi, INDIA ,110034
