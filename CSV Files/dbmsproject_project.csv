@@ -1,6 +1,0 @@
-#,ProjectId,DomainType,ProjectName,ProjectDeadline,Status,ProjectDesc,ProjectSubmissionDate
-1,1,Design,Prj1,2021-08-10,ASSIGNED,hello world project,2021-09-10
-2,2,Dev-ops,Prj2,2020-05-10,ASSIGNED,Website development for organization,2021-06-12
-3,3,Tech,Prj3,2020-08-30,ASSIGNED,App development for GoldMan Sachs,2021-12-31
-4,4,Logistics,Prj4,2017-05-23,ASSIGNED,Auditorium Development for ABCCorporation,2021-12-31
-5,5,Design,Prj5,2015-01-31,ASSIGNED,Poster and Video development for Sarthak Prayas NGO,2021-09-12
