@@ -24,3 +24,13 @@ General Employees:  They would be responsible for doing the real work in the com
 
 
 Client:  “The actual boss”, they would be the ones who would present the team with the actual project. The client will present the company with the desired deliverables of the project and the deadline to do them.
+
+![image](https://user-images.githubusercontent.com/55681323/119887498-d6af4900-bf51-11eb-956c-85acec36086f.png)
+
+![image](https://user-images.githubusercontent.com/55681323/119887511-dc0c9380-bf51-11eb-922e-40c0c09ead58.png)
+
+![image](https://user-images.githubusercontent.com/55681323/119887532-e0d14780-bf51-11eb-9c72-c3383c8bc42a.png)
+
+![image](https://user-images.githubusercontent.com/55681323/119887552-e464ce80-bf51-11eb-9cec-04975c018931.png)
+
+![image](https://user-images.githubusercontent.com/55681323/119887555-e62e9200-bf51-11eb-95ba-1bd9b5e48af4.png)
