@@ -22,4 +22,4 @@ The Team Leads:  There will be several team-leads assigned under a project manag
 General Employees:  They would be responsible for doing the real work in the company and completing the task assigned to them before the deadline.
 
 
-Client:  “The actual boss”, they would be the ones who would present the team with the actual project. The client will present the company with the desired deliverables of the project and the deadline to do them. 
+Client:  “The actual boss”, they would be the ones who would present the team with the actual project. The client will present the company with the desired deliverables of the project and the deadline to do them.
