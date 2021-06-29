@@ -6,10 +6,8 @@
   
 **Idea:** Tasque Tracker very effectively handles the process from the very top to bottom. At every stage, it distributes the tasks to the employees in a very intelligent manner. It takes into account the number of projects they are working on, and their general expertise in the domain of the project to do so.
 Along with this, Tasque Tracker also provides various other functionalities such as authentication of the person using the platform, query management portal for the projects, and performance review for the employees that can be taken by their seniors in the company.
-  
-  ```
+ 
 **Stakeholders of our project**
-   ```
    
 Company Owner:  The company owner will use our DBMS mainly to see all the projects undergoing in the company right now. He will also have a record of all the past projects which have been completed by the company. He will be directly dealing with the clients who will bring the project to him. At any point in time the company owner will be able to see the progress, manpower involved, project manager assigned to the project, and everything else that might be of use to him.
 
